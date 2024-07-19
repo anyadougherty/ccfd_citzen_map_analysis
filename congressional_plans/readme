@@ -1,0 +1,51 @@
+Congressional Plans
+
+Number of plans total: 36
+Citizen Submissions to Congressional Redistricting Body: 19
+Citizen Submissions to LRC: 2
+Submissions to Court Case 464 MD 465 MD: 15
+
+All of the plans were submitted in Shapefile form. Utilizing the a file that created a point on each block, the block assignments for each map were created. 
+This was done by assigning those points to districts based on which district they intersected with on the shapefile.
+
+Citizen Submissions to Congressional Redistricting Body:
+Bipartisan Minimal Variance Plan by Brandon Bechtel 2021-11-22
+CCFD Ruleset Equal Population by Anne Hanna  2021-12-06
+Competitive Districts MP by Matthew Price 2021-12-03
+Congressional No Muni Split .02 Pop Dev by Ruth Yeiser 2021-11-30
+Democrats Favored by EJ Reihl 2021-11-30
+District Map V.1 by Amanda Fogarty 2021-11-19
+District Plan 2 by Zeb Harshbarger 2021-11-22
+Fair Compact Balanced Districts Plan by Colin Pietropaolo 2021-11-18
+Holt Congressional Plan Version 0--0 Person Deviation by Amanda Holt 2021-11-19
+Holt Congressional Plan Version 1--13 Person Deviation by Amanda Holt 2021-11-16
+Map5 by Thomas Kutz 2021-11-23
+Matt Price Redistict Plan A by Matthew Price 2021-12-03
+PA Citizens Map from Draw the Lines by Justin Villere 2021-11-24
+PA Congressional Map using Lacra Provisons by Carol Kuniholm 2021-11-30
+PA US House Redistrict by Griffin Tripp 2021-11-22
+PA1 by Kenneth Shirk 2021-11-13
+Plan 1-Bipartisan Plan by Nathan Rybner 2021-11-11
+Reduced Bias Variant 2 based on A.Holt Map 0 by Michael Waxenberg 2021-12-05
+Reduced Bias Variant based on DTL Citizens Map by Michael Waxenberg 2021-12-06
+
+Citizen Submissions to LRC (downloaded from https://www.redistricting.state.pa.us/comment/):
+PA Congressional by RN 2021-09-15
+PA Congressional Map-Community Representative by JS 2021-11-20
+
+Submissions to Court Case 464 MD 465 MD (downloaded from https://www.pacourts.us/news-and-statistics/cases-of-public-interest/redistricting-cases-464-md-2021-and-465-md-2021):
+Carter Plan
+Congressional Intervenors Reschenthaler 2
+Congressional Intervenors Reschenthaler 1
+Draw the Lines PA-Amicus Participants-Pennsylvania Citizens Map
+Gov. Wolf
+Gressman
+House Democratic Caucus
+Khalif Ali
+Republican Legislator
+Senate Democratic Caucus-Map 2
+Senate Democratic Caucus-Map 1
+Voters of PA
+Voters of PA(corrected)
+CCFD
+Citizen Voters
