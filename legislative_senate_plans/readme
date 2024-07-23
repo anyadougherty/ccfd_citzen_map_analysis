@@ -1,0 +1,16 @@
+Legislative Senate Plans
+
+Number of Total Plans: 45
+Precinct-based Plans: 22
+Block-based Plans: 23
+
+All of the plans were sourced from the LRC website at https://www.redistricting.state.pa.us/comment/. Precinct assignment files and block assignment files have been kept in their original forms.
+Best estimate precinct assignment files have been made for shapefiles, utilizing the a file that created a point on each precinct. The assignment file was created by assigning those points to districts based on which district they intersected with on the shapefile.
+
+Precinct-based Plans:
+A More Competitive Senate Map by GR jan-9-2022 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::45eaec4f-d432-4925-ad61-c3c552923b62
+A Tweak for the Fair Districts PA Senate Map by RY nov-15-2021 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::144b56f6-10a9-4cce-8151-5eba213e3db4
+Balancing Population on the LRC Senate Draft by MW jan-2-2022 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::6d79dbdf-7da6-4b3e-b97d-c56fe2151541
+CCFD Proposed Senate Map with Compact Districts by BG an-5-2022 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::1dcc4f95-2c80-4c03-b4cf-e1f5a127eb56
+Christopher Fromme Senate by CF nov-11-2021 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::65288e8c-68ef-494b-a299-4a05e95a4f58
+Compact Coherence and Representative Map by MA jan-6-2022 - downloaded as precinct assignment file at https://davesredistricting.org/maps#viewmap::6a284cf5-d9ea-4d0d-8283-5e9d92531482
